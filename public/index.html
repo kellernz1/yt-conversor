@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>YT Converter</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+    <h1>🎬 Conversor</h1>
+
+    <input type="text" id="url" placeholder="Cole o link do YouTube">
+
+    <div class="row">
+        <select id="format" onchange="toggleQuality()">
+            <option value="mp3">MP3</option>
+            <option value="mp4">MP4</option>
+        </select>
+
+        <select id="quality"></select>
+    </div>
+
+    <button onclick="download()">Download</button>
+
+    <div class="progress-container">
+        <div id="progress"></div>
+    </div>
+
+    <p id="status"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
