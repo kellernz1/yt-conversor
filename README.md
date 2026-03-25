@@ -75,3 +75,33 @@ node server.js
 ### 5. Open in browser
 
 http://localhost:3000
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for **educational purposes only**.
+
+Downloading content from YouTube may violate their Terms of Service.
+Use this software responsibly.
+
+---
+
+## 💡 Future Improvements
+
+* 🎬 Video preview (thumbnail + title)
+* 📊 Real-time download progress (backend tracking)
+* ⚡ Streaming download (no temporary file)
+* ☁️ Cloud deployment (Vercel / Render)
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Keller Nz**
+
+---
+
+## ⭐ Contribute
+
+Feel free to fork this project and submit pull requests!
