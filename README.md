@@ -4,12 +4,6 @@ A modern web application that allows users to download YouTube videos as **MP3 (
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://kellernz1.github.io/yt-conversor
-
----
-
 ## 🚀 Features
 
 - 🎵 Convert YouTube videos to **MP3 (audio)**
