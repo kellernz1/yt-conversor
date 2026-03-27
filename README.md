@@ -43,8 +43,8 @@ A modern web application that allows users to download YouTube videos as **MP3 (
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/yt-converter.git
-cd yt-converter
+git clone https://github.com/your-username/yt-conversor.git
+cd yt-conversor
 
 ---
 
